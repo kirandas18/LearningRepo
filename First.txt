@@ -1,6 +1,6 @@
 My First Line in Git
 
-
+Between line
 My Second Line
 
 My THird Line
